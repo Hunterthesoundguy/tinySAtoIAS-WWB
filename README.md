@@ -1,5 +1,6 @@
 # tinySAtoIAS-WWB
-
+### How to use it:
+Run the python script, choose the output format (currently it only supports IAS and WWB), select your input file, select your output location, and click process!
 
 
 ### All of the below works if you are using the PowerShell Scripts. If you are using the python verson the below instructions dont apply.
